@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'streamline-small-cs';
 	src:url('fonts/streamline-small-cs.eot');
-	src:url('fonts/streamline-small-csd41d.eot?#iefix') format('embedded-opentype'),
+	src:url('fonts/streamline-small-csd41d.eot') format('embedded-opentype'),
 		url('fonts/streamline-small-cs.ttf') format('truetype'),
 		url('fonts/streamline-small-cs.woff') format('woff'),
-		url('fonts/streamline-small-cs.svg#streamline-small-cs') format('svg');
+		url('fonts/streamline-small-cs.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
